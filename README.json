@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AWK crashcourse",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-05-22T15:23:16Z",
+            "owner": "freznicek",
+            "repo": "awk-crashcourse",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "30 seconds of AWK code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-12-25T20:48:18Z",
+            "owner": "freznicek",
+            "repo": "30-seconds-of-awk-code",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Quick How-tos"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T14:07:51.691Z",
+    "original_repository": "freznicek/awesome-awk",
+    "original_repository_sha": "8592cd3ea1fdbc20d9f55523be6f87c513bbdc4b",
+    "enhanced_repository": "enhansome/enhansome-awk",
+    "enhanced_repository_description": null,
+    "title": "Awesome AWK with stars"
+  }
+}
