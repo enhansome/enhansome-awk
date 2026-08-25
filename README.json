@@ -232,7 +232,7 @@
             "archived": false,
             "id": 136558084,
             "language": "Go",
-            "last_commit": "2026-08-25T01:30:11Z",
+            "last_commit": "2026-08-25T10:04:48Z",
             "owner": "benhoyt",
             "repo": "goawk",
             "stars": 2051
@@ -273,7 +273,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:24:57.947Z",
+    "last_updated": "2026-08-25T13:35:38.246Z",
     "original_repository": "freznicek/awesome-awk",
     "original_repository_id": 158671860,
     "original_repository_sha": "8592cd3ea1fdbc20d9f55523be6f87c513bbdc4b",
