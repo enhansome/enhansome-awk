@@ -71,7 +71,7 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
 # [AWK implementations](https://en.wikipedia.org/wiki/AWK#Versions_and_implementations)
 
 * [one true awk](https://github.com/onetrueawk/awk) ⭐ 2,221 | 🐛 15 | 🌐 C | 📅 2026-08-19
-* [goawk](https://github.com/benhoyt/goawk) ⭐ 2,052 | 🐛 4 | 🌐 Go | 📅 2026-08-25
+* [goawk](https://github.com/benhoyt/goawk) ⭐ 2,052 | 🐛 3 | 🌐 Go | 📅 2026-08-27
 * [bioawk](https://github.com/lh3/bioawk) ⭐ 643 | 🐛 25 | 🌐 C | 📅 2022-08-11
 * [pawk](https://github.com/jasontrigg0/pawk) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2020-08-04
 * [gawk](https://savannah.gnu.org/projects/gawk/) ([source-code](http://git.savannah.gnu.org/cgit/gawk.git))
