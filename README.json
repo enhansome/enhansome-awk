@@ -273,9 +273,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:40:06.868Z",
-    "original_repository": "freznicek/awesome-awk",
-    "original_repository_id": 158671860,
+    "last_updated": "2026-08-27T11:28:34.903Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 158671860,
+      "language": "HTML",
+      "last_commit": "2024-02-21T19:58:26Z",
+      "owner": "freznicek",
+      "repo": "awesome-awk",
+      "stars": 255
+    },
     "original_repository_sha": "8592cd3ea1fdbc20d9f55523be6f87c513bbdc4b",
     "enhanced_repository": "enhansome/enhansome-awk",
     "enhanced_repository_description": null,
