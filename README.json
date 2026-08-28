@@ -18,7 +18,8 @@
                 "owner": "freznicek",
                 "repo": "awk-crashcourse",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T22:46:09.785Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "freznicek",
                 "repo": "30-seconds-of-awk-code",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T22:46:09.785Z"
             }
           ],
           "description": null,
@@ -59,7 +61,8 @@
             "owner": "e36freak",
             "repo": "awk-libs",
             "stars": 262
-          }
+          },
+          "first_seen": "2026-08-28T22:46:09.785Z"
         },
         {
           "node_type": "item",
@@ -74,7 +77,8 @@
             "owner": "dubiousjim",
             "repo": "awkenough",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T22:46:09.785Z"
         },
         {
           "node_type": "item",
@@ -89,7 +93,8 @@
             "owner": "patsie75",
             "repo": "awk-glib",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T22:46:09.785Z"
         }
       ],
       "title": "AWK libraries"
@@ -110,7 +115,8 @@
             "owner": "TheMozg",
             "repo": "awk-raycaster",
             "stars": 2472
-          }
+          },
+          "first_seen": "2026-08-28T22:46:09.785Z"
         },
         {
           "node_type": "item",
@@ -125,7 +131,8 @@
             "owner": "djanderson",
             "repo": "aho",
             "stars": 821
-          }
+          },
+          "first_seen": "2026-08-28T22:46:09.785Z"
         },
         {
           "node_type": "item",
@@ -140,7 +147,8 @@
             "owner": "patsie75",
             "repo": "awk-3d",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T22:46:09.785Z"
         },
         {
           "node_type": "item",
@@ -155,7 +163,8 @@
             "owner": "patsie75",
             "repo": "awk-chip8",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T22:46:09.785Z"
         },
         {
           "node_type": "item",
@@ -170,7 +179,8 @@
             "owner": "patsie75",
             "repo": "awk-videoplayer",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T22:46:09.785Z"
         },
         {
           "node_type": "item",
@@ -185,7 +195,8 @@
             "owner": "patsie75",
             "repo": "awk-mandelbrot",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T22:46:09.785Z"
         },
         {
           "node_type": "item",
@@ -200,7 +211,8 @@
             "owner": "patsie75",
             "repo": "awk-base64",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T22:46:09.785Z"
         }
       ],
       "title": "Projects written in AWK"
@@ -220,8 +232,9 @@
             "last_commit": "2026-08-19T08:27:54Z",
             "owner": "onetrueawk",
             "repo": "awk",
-            "stars": 2221
-          }
+            "stars": 2222
+          },
+          "first_seen": "2026-08-28T22:46:09.785Z"
         },
         {
           "node_type": "item",
@@ -236,7 +249,8 @@
             "owner": "benhoyt",
             "repo": "goawk",
             "stars": 2052
-          }
+          },
+          "first_seen": "2026-08-28T22:46:09.785Z"
         },
         {
           "node_type": "item",
@@ -251,7 +265,8 @@
             "owner": "lh3",
             "repo": "bioawk",
             "stars": 643
-          }
+          },
+          "first_seen": "2026-08-28T22:46:09.785Z"
         },
         {
           "node_type": "item",
@@ -266,14 +281,15 @@
             "owner": "jasontrigg0",
             "repo": "pawk",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T22:46:09.785Z"
         }
       ],
       "title": "AWK implementations"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:36:23.663Z",
+    "last_updated": "2026-08-28T22:46:09.785Z",
     "original_repository_info": {
       "archived": false,
       "id": 158671860,
