@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AWK language course",
+                "homepage": null,
                 "id": 158793307,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-05-22T15:23:16Z",
+                "open_issues": 1,
                 "owner": "freznicek",
                 "repo": "awk-crashcourse",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "awk",
+                  "command-line",
+                  "course",
+                  "data-mining",
+                  "programming",
+                  "text-processing"
+                ]
               },
               "first_seen": "2026-08-28T22:46:09.785Z"
             },
@@ -28,12 +40,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AWK implementation of 30-seconds-of-code",
+                "homepage": null,
                 "id": 162404690,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-12-25T20:48:18Z",
+                "open_issues": 0,
                 "owner": "freznicek",
                 "repo": "30-seconds-of-awk-code",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:46:09.785Z"
             }
@@ -55,12 +72,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GNU awk libraries",
+            "homepage": null,
             "id": 3558232,
             "language": "Awk",
+            "license": null,
             "last_commit": "2019-02-27T22:57:33Z",
+            "open_issues": 0,
             "owner": "e36freak",
             "repo": "awk-libs",
-            "stars": 262
+            "stars": 262,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:09.785Z"
         },
@@ -71,12 +93,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "basic libraries for awk",
+            "homepage": null,
             "id": 4216231,
             "language": "Awk",
+            "license": "MIT",
             "last_commit": "2017-09-14T21:09:03Z",
+            "open_issues": 2,
             "owner": "dubiousjim",
             "repo": "awkenough",
-            "stars": 106
+            "stars": 106,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:09.785Z"
         },
@@ -87,12 +114,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ANSI graphics library (in gawk)",
+            "homepage": null,
             "id": 138463420,
             "language": "Awk",
+            "license": null,
             "last_commit": "2018-07-13T22:19:54Z",
+            "open_issues": 0,
             "owner": "patsie75",
             "repo": "awk-glib",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:09.785Z"
         }
@@ -109,12 +141,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pseudo-3D shooter written completely in gawk using raycasting technique",
+            "homepage": null,
             "id": 49528234,
             "language": "Awk",
+            "license": "MIT",
             "last_commit": "2023-01-20T20:26:06Z",
+            "open_issues": 1,
             "owner": "TheMozg",
             "repo": "awk-raycaster",
-            "stars": 2472
+            "stars": 2472,
+            "topics": [
+              "3d",
+              "awk",
+              "game",
+              "raycast"
+            ]
           },
           "first_seen": "2026-08-28T22:46:09.785Z"
         },
@@ -125,12 +167,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A git implementation in awk",
+            "homepage": null,
             "id": 375884407,
             "language": "Awk",
+            "license": "MIT",
             "last_commit": "2021-10-14T05:06:17Z",
+            "open_issues": 1,
             "owner": "djanderson",
             "repo": "aho",
-            "stars": 821
+            "stars": 821,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:09.785Z"
         },
@@ -141,12 +188,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Draw 3D objects on your terminal with awk",
+            "homepage": null,
             "id": 211807149,
             "language": "Awk",
+            "license": null,
             "last_commit": "2020-04-07T21:02:25Z",
+            "open_issues": 0,
             "owner": "patsie75",
             "repo": "awk-3d",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:09.785Z"
         },
@@ -157,12 +209,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CHIP-8 emulator in gawk",
+            "homepage": null,
             "id": 440283992,
             "language": "Awk",
+            "license": null,
             "last_commit": "2025-02-13T14:55:57Z",
+            "open_issues": 0,
             "owner": "patsie75",
             "repo": "awk-chip8",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:09.785Z"
         },
@@ -173,12 +230,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A console videoplayer in gawk",
+            "homepage": null,
             "id": 324399463,
             "language": "Awk",
+            "license": null,
             "last_commit": "2022-05-31T18:32:17Z",
+            "open_issues": 0,
             "owner": "patsie75",
             "repo": "awk-videoplayer",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:09.785Z"
         },
@@ -189,12 +251,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mandelbrot generator with zoom in awk",
+            "homepage": null,
             "id": 127943620,
             "language": "Awk",
+            "license": null,
             "last_commit": "2019-12-19T11:11:42Z",
+            "open_issues": 0,
             "owner": "patsie75",
             "repo": "awk-mandelbrot",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:09.785Z"
         },
@@ -205,12 +272,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "encode and decode base64 data",
+            "homepage": null,
             "id": 198860626,
             "language": "Awk",
+            "license": null,
             "last_commit": "2019-07-25T15:56:10Z",
+            "open_issues": 0,
             "owner": "patsie75",
             "repo": "awk-base64",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:09.785Z"
         }
@@ -227,12 +299,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One true awk",
+            "homepage": null,
             "id": 7287136,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-19T08:27:54Z",
+            "open_issues": 15,
             "owner": "onetrueawk",
             "repo": "awk",
-            "stars": 2222
+            "stars": 2222,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:09.785Z"
         },
@@ -243,12 +320,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A POSIX-compliant AWK interpreter written in Go, with CSV support",
+            "homepage": "https://benhoyt.com/writings/goawk/",
             "id": 136558084,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-27T21:29:56Z",
+            "open_issues": 4,
             "owner": "benhoyt",
             "repo": "goawk",
-            "stars": 2052
+            "stars": 2052,
+            "topics": [
+              "awk",
+              "csv",
+              "go",
+              "interpreter",
+              "parser"
+            ]
           },
           "first_seen": "2026-08-28T22:46:09.785Z"
         },
@@ -259,12 +347,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BWK awk modified for biological data",
+            "homepage": null,
             "id": 3115288,
             "language": "C",
+            "license": null,
             "last_commit": "2022-08-11T01:06:45Z",
+            "open_issues": 25,
             "owner": "lh3",
             "repo": "bioawk",
-            "stars": 643
+            "stars": 643,
+            "topics": [
+              "bioinformatics",
+              "sequence-analysis"
+            ]
           },
           "first_seen": "2026-08-28T22:46:09.785Z"
         },
@@ -275,12 +371,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awk-like tool using python",
+            "homepage": null,
             "id": 31822701,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-08-04T23:55:30Z",
+            "open_issues": 1,
             "owner": "jasontrigg0",
             "repo": "pawk",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:09.785Z"
         }
@@ -289,15 +390,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:46:09.785Z",
+    "last_updated": "2026-08-29T04:47:34.891Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome AWK frameworks, libraries, software and resources",
+      "homepage": null,
       "id": 158671860,
       "language": "HTML",
+      "license": null,
       "last_commit": "2024-02-21T19:58:26Z",
+      "open_issues": 3,
       "owner": "freznicek",
       "repo": "awesome-awk",
-      "stars": 255
+      "stars": 255,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awk",
+        "awk-language",
+        "gawk"
+      ]
     },
     "original_repository_sha": "8592cd3ea1fdbc20d9f55523be6f87c513bbdc4b",
     "enhanced_repository": "enhansome/enhansome-awk",
