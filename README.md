@@ -9,7 +9,7 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
 
 ## Quick How-tos
 
-* [AWK crashcourse](https://github.com/freznicek/awk-crashcourse/blob/master/README.md) ⭐ 29 | 🐛 1 | 📅 2020-05-22
+* [AWK crashcourse](https://github.com/freznicek/awk-crashcourse/blob/master/README.md) ⭐ 30 | 🐛 1 | 📅 2020-05-22
 * [30 seconds of AWK code](https://github.com/freznicek/30-seconds-of-awk-code/blob/master/README.md) ⭐ 3 | 🐛 0 | 📅 2018-12-25
 * [30 Examples for Awk Command in Text Processing](https://likegeeks.com/awk-command/)
 * [Awk - A useful little language](https://dev.to/rrampage/awk---a-useful-little-language-2fhf)
@@ -81,4 +81,4 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
