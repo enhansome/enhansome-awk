@@ -308,7 +308,7 @@
             "open_issues": 15,
             "owner": "onetrueawk",
             "repo": "awk",
-            "stars": 2226,
+            "stars": 2227,
             "topics": []
           },
           "first_seen": "2026-08-28T22:46:09.785Z"
@@ -325,8 +325,8 @@
             "id": 136558084,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-27T21:29:56Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-07T12:58:04Z",
+            "open_issues": 5,
             "owner": "benhoyt",
             "repo": "goawk",
             "stars": 2052,
@@ -390,7 +390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T15:48:08.918Z",
+    "last_updated": "2026-09-07T17:54:48.575Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AWK frameworks, libraries, software and resources",
