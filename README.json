@@ -325,7 +325,7 @@
             "id": 136558084,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-07T20:08:47Z",
+            "last_commit": "2026-09-15T03:11:31Z",
             "open_issues": 4,
             "owner": "benhoyt",
             "repo": "goawk",
@@ -390,7 +390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T18:12:00.579Z",
+    "last_updated": "2026-09-15T17:17:27.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AWK frameworks, libraries, software and resources",
