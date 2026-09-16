@@ -308,7 +308,7 @@
             "open_issues": 15,
             "owner": "onetrueawk",
             "repo": "awk",
-            "stars": 2226,
+            "stars": 2227,
             "topics": []
           },
           "first_seen": "2026-08-28T22:46:09.785Z"
@@ -325,11 +325,11 @@
             "id": 136558084,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-15T03:11:31Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-15T19:56:50Z",
+            "open_issues": 5,
             "owner": "benhoyt",
             "repo": "goawk",
-            "stars": 2054,
+            "stars": 2055,
             "topics": [
               "awk",
               "csv",
@@ -356,7 +356,7 @@
             "open_issues": 25,
             "owner": "lh3",
             "repo": "bioawk",
-            "stars": 643,
+            "stars": 644,
             "topics": [
               "bioinformatics",
               "sequence-analysis"
@@ -390,7 +390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T17:17:27.763Z",
+    "last_updated": "2026-09-16T17:17:51.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AWK frameworks, libraries, software and resources",
