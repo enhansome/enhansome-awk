@@ -150,7 +150,7 @@
             "open_issues": 1,
             "owner": "TheMozg",
             "repo": "awk-raycaster",
-            "stars": 2473,
+            "stars": 2475,
             "topics": [
               "3d",
               "awk",
@@ -308,7 +308,7 @@
             "open_issues": 15,
             "owner": "onetrueawk",
             "repo": "awk",
-            "stars": 2227,
+            "stars": 2228,
             "topics": []
           },
           "first_seen": "2026-08-28T22:46:09.785Z"
@@ -329,7 +329,7 @@
             "open_issues": 4,
             "owner": "benhoyt",
             "repo": "goawk",
-            "stars": 2056,
+            "stars": 2058,
             "topics": [
               "awk",
               "csv",
@@ -390,7 +390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T17:16:29.559Z",
+    "last_updated": "2026-09-18T16:43:58.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AWK frameworks, libraries, software and resources",

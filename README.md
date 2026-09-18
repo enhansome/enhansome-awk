@@ -59,7 +59,7 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
 
 # Projects written in AWK
 
-* [awkraycaster — pseudo-3D game inspired by the classic Wolfenstein 3D and Doom](https://github.com/TheMozg/awk-raycaster) ⭐ 2,473 | 🐛 1 | 🌐 Awk | 📅 2023-01-20
+* [awkraycaster — pseudo-3D game inspired by the classic Wolfenstein 3D and Doom](https://github.com/TheMozg/awk-raycaster) ⭐ 2,475 | 🐛 1 | 🌐 Awk | 📅 2023-01-20
 * [aho — a git implementation in awk](https://github.com/djanderson/aho) ⭐ 821 | 🐛 1 | 🌐 Awk | 📅 2021-10-14
 * [Draw 3D objects on your terminal with awk](https://github.com/patsie75/awk-3d) ⭐ 24 | 🐛 0 | 🌐 Awk | 📅 2020-04-07
 * [CHIP-8 emulator in gawk](https://github.com/patsie75/awk-chip8) ⭐ 23 | 🐛 0 | 🌐 Awk | 📅 2025-02-13
@@ -70,8 +70,8 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
 
 # [AWK implementations](https://en.wikipedia.org/wiki/AWK#Versions_and_implementations)
 
-* [one true awk](https://github.com/onetrueawk/awk) ⭐ 2,227 | 🐛 15 | 🌐 C | 📅 2026-08-19
-* [goawk](https://github.com/benhoyt/goawk) ⭐ 2,056 | 🐛 4 | 🌐 Go | 📅 2026-09-15
+* [one true awk](https://github.com/onetrueawk/awk) ⭐ 2,228 | 🐛 15 | 🌐 C | 📅 2026-08-19
+* [goawk](https://github.com/benhoyt/goawk) ⭐ 2,058 | 🐛 4 | 🌐 Go | 📅 2026-09-15
 * [bioawk](https://github.com/lh3/bioawk) ⭐ 644 | 🐛 25 | 🌐 C | 📅 2022-08-11
 * [pawk](https://github.com/jasontrigg0/pawk) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2020-08-04
 * [gawk](https://savannah.gnu.org/projects/gawk/) ([source-code](http://git.savannah.gnu.org/cgit/gawk.git))
@@ -81,4 +81,4 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
