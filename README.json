@@ -150,7 +150,7 @@
             "open_issues": 1,
             "owner": "TheMozg",
             "repo": "awk-raycaster",
-            "stars": 2475,
+            "stars": 2474,
             "topics": [
               "3d",
               "awk",
@@ -390,7 +390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T16:43:58.208Z",
+    "last_updated": "2026-09-19T16:04:26.262Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AWK frameworks, libraries, software and resources",
