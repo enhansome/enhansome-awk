@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "AWK crashcourse",
-              "description": null,
+              "description": "freznicek/awk-crashcourse",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -36,7 +36,7 @@
             {
               "node_type": "item",
               "title": "30 seconds of AWK code",
-              "description": null,
+              "description": "freznicek/30-seconds-of-awk-code",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -68,7 +68,7 @@
         {
           "node_type": "item",
           "title": "GNU awk libraries",
-          "description": null,
+          "description": "e36freak/awk-libs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -89,7 +89,7 @@
         {
           "node_type": "item",
           "title": "Awkenough libs and tools",
-          "description": null,
+          "description": "dubiousjim/awkenough",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -110,7 +110,7 @@
         {
           "node_type": "item",
           "title": "ANSI graphics library (in gawk)",
-          "description": null,
+          "description": "patsie75/awk-glib",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -137,7 +137,7 @@
         {
           "node_type": "item",
           "title": "awkraycaster — pseudo-3D game inspired by the classic Wolfenstein 3D and Doom",
-          "description": null,
+          "description": "TheMozg/awk-raycaster",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -163,7 +163,7 @@
         {
           "node_type": "item",
           "title": "aho — a git implementation in awk",
-          "description": null,
+          "description": "djanderson/aho",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -184,7 +184,7 @@
         {
           "node_type": "item",
           "title": "Draw 3D objects on your terminal with awk",
-          "description": null,
+          "description": "patsie75/awk-3d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -205,7 +205,7 @@
         {
           "node_type": "item",
           "title": "CHIP-8 emulator in gawk",
-          "description": null,
+          "description": "patsie75/awk-chip8",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -226,7 +226,7 @@
         {
           "node_type": "item",
           "title": "A console videoplayer in gawk and ffmpeg",
-          "description": null,
+          "description": "patsie75/awk-videoplayer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -247,7 +247,7 @@
         {
           "node_type": "item",
           "title": "Mandelbrot generator with zoom in awk",
-          "description": null,
+          "description": "patsie75/awk-mandelbrot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -268,7 +268,7 @@
         {
           "node_type": "item",
           "title": "encode and decode base64 data",
-          "description": null,
+          "description": "patsie75/awk-base64",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -295,7 +295,7 @@
         {
           "node_type": "item",
           "title": "one true awk",
-          "description": null,
+          "description": "onetrueawk/awk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -316,7 +316,7 @@
         {
           "node_type": "item",
           "title": "goawk",
-          "description": null,
+          "description": "benhoyt/goawk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -343,7 +343,7 @@
         {
           "node_type": "item",
           "title": "bioawk",
-          "description": null,
+          "description": "lh3/bioawk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -367,7 +367,7 @@
         {
           "node_type": "item",
           "title": "pawk",
-          "description": null,
+          "description": "jasontrigg0/pawk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -390,7 +390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:02:34.210Z",
+    "last_updated": "2026-10-03T04:33:04.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AWK frameworks, libraries, software and resources",
