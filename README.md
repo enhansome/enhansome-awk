@@ -60,7 +60,7 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
 # Projects written in AWK
 
 * [awkraycaster — pseudo-3D game inspired by the classic Wolfenstein 3D and Doom](https://github.com/TheMozg/awk-raycaster) ⭐ 2,471 | 🐛 1 | 🌐 Awk | 📅 2023-01-20
-* [aho — a git implementation in awk](https://github.com/djanderson/aho) ⭐ 821 | 🐛 1 | 🌐 Awk | 📅 2021-10-14
+* [aho — a git implementation in awk](https://github.com/djanderson/aho) ⭐ 820 | 🐛 1 | 🌐 Awk | 📅 2021-10-14
 * [Draw 3D objects on your terminal with awk](https://github.com/patsie75/awk-3d) ⭐ 24 | 🐛 0 | 🌐 Awk | 📅 2020-04-07
 * [CHIP-8 emulator in gawk](https://github.com/patsie75/awk-chip8) ⭐ 23 | 🐛 0 | 🌐 Awk | 📅 2025-02-13
 * [A console videoplayer in gawk and ffmpeg](https://github.com/patsie75/awk-videoplayer) ⭐ 23 | 🐛 0 | 🌐 Awk | 📅 2022-05-31

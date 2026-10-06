@@ -176,7 +176,7 @@
             "open_issues": 1,
             "owner": "djanderson",
             "repo": "aho",
-            "stars": 821,
+            "stars": 820,
             "topics": []
           },
           "first_seen": "2026-08-28T22:46:09.785Z"
@@ -390,7 +390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:42:45.679Z",
+    "last_updated": "2026-10-06T18:37:29.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AWK frameworks, libraries, software and resources",
