@@ -356,7 +356,7 @@
             "open_issues": 25,
             "owner": "lh3",
             "repo": "bioawk",
-            "stars": 644,
+            "stars": 643,
             "topics": [
               "bioinformatics",
               "sequence-analysis"
@@ -390,7 +390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:24:19.784Z",
+    "last_updated": "2026-10-06T10:42:45.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AWK frameworks, libraries, software and resources",
