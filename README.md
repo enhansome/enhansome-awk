@@ -53,7 +53,7 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
 
 # AWK libraries
 
-* [GNU awk libraries](https://github.com/e36freak/awk-libs) ⭐ 262 | 🐛 0 | 🌐 Awk | 📅 2019-02-27
+* [GNU awk libraries](https://github.com/e36freak/awk-libs) ⭐ 261 | 🐛 0 | 🌐 Awk | 📅 2019-02-27
 * [Awkenough libs and tools](https://github.com/dubiousjim/awkenough) ⭐ 106 | 🐛 2 | 🌐 Awk | 📅 2017-09-14
 * [ANSI graphics library (in gawk)](https://github.com/patsie75/awk-glib) ⭐ 20 | 🐛 0 | 🌐 Awk | 📅 2018-07-13
 
@@ -71,7 +71,7 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
 # [AWK implementations](https://en.wikipedia.org/wiki/AWK#Versions_and_implementations)
 
 * [one true awk](https://github.com/onetrueawk/awk) ⭐ 2,230 | 🐛 16 | 🌐 C | 📅 2026-08-19
-* [goawk](https://github.com/benhoyt/goawk) ⭐ 2,061 | 🐛 4 | 🌐 Go | 📅 2026-09-15
+* [goawk](https://github.com/benhoyt/goawk) ⭐ 2,062 | 🐛 5 | 🌐 Go | 📅 2026-09-15
 * [bioawk](https://github.com/lh3/bioawk) ⭐ 643 | 🐛 25 | 🌐 C | 📅 2022-08-11
 * [pawk](https://github.com/jasontrigg0/pawk) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2020-08-04
 * [gawk](https://savannah.gnu.org/projects/gawk/) ([source-code](http://git.savannah.gnu.org/cgit/gawk.git))
@@ -81,4 +81,4 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

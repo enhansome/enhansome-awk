@@ -81,7 +81,7 @@
             "open_issues": 0,
             "owner": "e36freak",
             "repo": "awk-libs",
-            "stars": 262,
+            "stars": 261,
             "topics": []
           },
           "first_seen": "2026-08-28T22:46:09.785Z"
@@ -326,10 +326,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-15T19:56:50Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "benhoyt",
             "repo": "goawk",
-            "stars": 2061,
+            "stars": 2062,
             "topics": [
               "awk",
               "csv",
@@ -390,7 +390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T19:01:00.803Z",
+    "last_updated": "2026-10-09T18:31:18.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AWK frameworks, libraries, software and resources",
@@ -402,7 +402,7 @@
       "open_issues": 3,
       "owner": "freznicek",
       "repo": "awesome-awk",
-      "stars": 255,
+      "stars": 256,
       "topics": [
         "awesome",
         "awesome-list",
