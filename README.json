@@ -183,6 +183,27 @@
         },
         {
           "node_type": "item",
+          "title": "CHIP-8 emulator in gawk",
+          "description": "patsie75/awk-chip8",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "CHIP-8 emulator in gawk",
+            "homepage": null,
+            "id": 440283992,
+            "language": "Awk",
+            "license": null,
+            "last_commit": "2025-02-13T14:55:57Z",
+            "open_issues": 0,
+            "owner": "patsie75",
+            "repo": "awk-chip8",
+            "stars": 24,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T22:46:09.785Z"
+        },
+        {
+          "node_type": "item",
           "title": "Draw 3D objects on your terminal with awk",
           "description": "patsie75/awk-3d",
           "children": [],
@@ -198,27 +219,6 @@
             "owner": "patsie75",
             "repo": "awk-3d",
             "stars": 24,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:46:09.785Z"
-        },
-        {
-          "node_type": "item",
-          "title": "CHIP-8 emulator in gawk",
-          "description": "patsie75/awk-chip8",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "CHIP-8 emulator in gawk",
-            "homepage": null,
-            "id": 440283992,
-            "language": "Awk",
-            "license": null,
-            "last_commit": "2025-02-13T14:55:57Z",
-            "open_issues": 0,
-            "owner": "patsie75",
-            "repo": "awk-chip8",
-            "stars": 23,
             "topics": []
           },
           "first_seen": "2026-08-28T22:46:09.785Z"
@@ -325,11 +325,11 @@
             "id": 136558084,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-15T19:56:50Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-10T04:34:37Z",
+            "open_issues": 4,
             "owner": "benhoyt",
             "repo": "goawk",
-            "stars": 2062,
+            "stars": 2064,
             "topics": [
               "awk",
               "csv",
@@ -390,7 +390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T18:31:18.215Z",
+    "last_updated": "2026-10-10T17:28:28.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AWK frameworks, libraries, software and resources",
