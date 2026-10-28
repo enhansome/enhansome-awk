@@ -325,11 +325,11 @@
             "id": 136558084,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-25T19:15:12Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-27T23:04:55Z",
+            "open_issues": 4,
             "owner": "benhoyt",
             "repo": "goawk",
-            "stars": 2064,
+            "stars": 2066,
             "topics": [
               "awk",
               "csv",
@@ -390,7 +390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T18:18:16.095Z",
+    "last_updated": "2026-10-28T18:29:51.756Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AWK frameworks, libraries, software and resources",
@@ -402,7 +402,7 @@
       "open_issues": 3,
       "owner": "freznicek",
       "repo": "awesome-awk",
-      "stars": 256,
+      "stars": 257,
       "topics": [
         "awesome",
         "awesome-list",
