@@ -81,7 +81,7 @@
             "open_issues": 0,
             "owner": "e36freak",
             "repo": "awk-libs",
-            "stars": 262,
+            "stars": 261,
             "topics": []
           },
           "first_seen": "2026-08-28T22:46:09.785Z"
@@ -390,7 +390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T19:49:32.159Z",
+    "last_updated": "2026-11-04T20:02:29.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AWK frameworks, libraries, software and resources",
@@ -402,7 +402,7 @@
       "open_issues": 3,
       "owner": "freznicek",
       "repo": "awesome-awk",
-      "stars": 257,
+      "stars": 258,
       "topics": [
         "awesome",
         "awesome-list",
