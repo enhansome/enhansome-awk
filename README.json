@@ -329,7 +329,7 @@
             "open_issues": 2,
             "owner": "benhoyt",
             "repo": "goawk",
-            "stars": 2068,
+            "stars": 2069,
             "topics": [
               "awk",
               "csv",
@@ -390,7 +390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:02:29.882Z",
+    "last_updated": "2026-11-05T20:16:26.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AWK frameworks, libraries, software and resources",
@@ -402,7 +402,7 @@
       "open_issues": 3,
       "owner": "freznicek",
       "repo": "awesome-awk",
-      "stars": 258,
+      "stars": 259,
       "topics": [
         "awesome",
         "awesome-list",
