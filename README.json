@@ -304,7 +304,7 @@
             "id": 7287136,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T19:14:35Z",
+            "last_commit": "2026-11-08T16:41:13Z",
             "open_issues": 9,
             "owner": "onetrueawk",
             "repo": "awk",
@@ -390,7 +390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T17:51:40.818Z",
+    "last_updated": "2026-11-08T18:05:27.824Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AWK frameworks, libraries, software and resources",
