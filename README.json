@@ -305,10 +305,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-11-08T16:41:13Z",
-            "open_issues": 9,
+            "open_issues": 11,
             "owner": "onetrueawk",
             "repo": "awk",
-            "stars": 2233,
+            "stars": 2234,
             "topics": []
           },
           "first_seen": "2026-08-28T22:46:09.785Z"
@@ -329,7 +329,7 @@
             "open_issues": 2,
             "owner": "benhoyt",
             "repo": "goawk",
-            "stars": 2070,
+            "stars": 2072,
             "topics": [
               "awk",
               "csv",
@@ -390,7 +390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:01:04.726Z",
+    "last_updated": "2026-11-11T19:52:17.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AWK frameworks, libraries, software and resources",
