@@ -150,7 +150,7 @@
             "open_issues": 1,
             "owner": "TheMozg",
             "repo": "awk-raycaster",
-            "stars": 2478,
+            "stars": 2477,
             "topics": [
               "3d",
               "awk",
@@ -326,7 +326,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-02T17:30:43Z",
-            "open_issues": 2,
+            "open_issues": 4,
             "owner": "benhoyt",
             "repo": "goawk",
             "stars": 2072,
@@ -390,7 +390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T20:27:47.306Z",
+    "last_updated": "2026-11-13T20:03:29.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AWK frameworks, libraries, software and resources",
