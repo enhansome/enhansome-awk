@@ -53,13 +53,13 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
 
 # AWK libraries
 
-* [GNU awk libraries](https://github.com/e36freak/awk-libs) ⭐ 261 | 🐛 0 | 🌐 Awk | 📅 2019-02-27
+* [GNU awk libraries](https://github.com/e36freak/awk-libs) ⭐ 262 | 🐛 0 | 🌐 Awk | 📅 2019-02-27
 * [Awkenough libs and tools](https://github.com/dubiousjim/awkenough) ⭐ 106 | 🐛 2 | 🌐 Awk | 📅 2017-09-14
 * [ANSI graphics library (in gawk)](https://github.com/patsie75/awk-glib) ⭐ 20 | 🐛 0 | 🌐 Awk | 📅 2018-07-13
 
 # Projects written in AWK
 
-* [awkraycaster — pseudo-3D game inspired by the classic Wolfenstein 3D and Doom](https://github.com/TheMozg/awk-raycaster) ⭐ 2,476 | 🐛 1 | 🌐 Awk | 📅 2023-01-20
+* [awkraycaster — pseudo-3D game inspired by the classic Wolfenstein 3D and Doom](https://github.com/TheMozg/awk-raycaster) ⭐ 2,475 | 🐛 1 | 🌐 Awk | 📅 2023-01-20
 * [aho — a git implementation in awk](https://github.com/djanderson/aho) ⭐ 819 | 🐛 1 | 🌐 Awk | 📅 2021-10-14
 * [CHIP-8 emulator in gawk](https://github.com/patsie75/awk-chip8) ⭐ 24 | 🐛 0 | 🌐 Awk | 📅 2025-02-13
 * [Draw 3D objects on your terminal with awk](https://github.com/patsie75/awk-3d) ⭐ 24 | 🐛 0 | 🌐 Awk | 📅 2020-04-07
@@ -81,4 +81,4 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
