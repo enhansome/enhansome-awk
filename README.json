@@ -308,7 +308,7 @@
             "open_issues": 12,
             "owner": "onetrueawk",
             "repo": "awk",
-            "stars": 2234,
+            "stars": 2235,
             "topics": []
           },
           "first_seen": "2026-08-28T22:46:09.785Z"
@@ -390,7 +390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T00:23:33.285Z",
+    "last_updated": "2026-11-24T22:46:15.231Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AWK frameworks, libraries, software and resources",
